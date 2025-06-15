@@ -7,11 +7,11 @@ I'm a passionate backend and full stack enterprise software architect, specializ
 - 💻 **Primary Stack:** .NET (C#), ASP.NET Core, ASP.NET Framework, and related Microsoft technologies.
 - 🚀 **Key Skills:**
   - Robust and scalable API design
-  - Microservices & orchestration (event-driven architecture, messaging, distributed systems)
-  - Cloud-native development (Azure, containerization, CI/CD)
-  - Web development
-  - Database design & optimization
   - Solution architecture & technical leadership
+  - Cloud-native development (Azure, containerization, CI/CD)
+  - Web development (Blazor, Web Forms)
+  - Database design & optimization
+  - Microservices & orchestration (event-driven architecture, messaging, distributed systems)
   - DevOps practices and automation
 
 ## 📚 Currently Exploring
