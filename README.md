@@ -24,3 +24,7 @@ I'm a passionate backend and full stack enterprise software architect, specializ
 
 ---
 _Always building, always learning._
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/5a9e8bc1-edf6-4998-9e3b-a19089f739a2/thumbnail" width="300">
+</p>
